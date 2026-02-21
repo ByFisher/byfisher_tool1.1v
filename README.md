@@ -4,7 +4,7 @@
   <p align="center">
     <img src="https://img.shields.io/github/stars/KULLANICI_ADIN/REPO_ADIN?style=for-the-badge&color=ff00cc" alt="stars">
     <img src="https:https://github.com/ByFisher/byfisher_tool1.1v/blobstyle=for-the-badge&color=00ccff" alt="forks">
-    <img src="https://img.shields.io/github/license/KULLANICI_ADIN/REPO_ADIN?style=for-the-badge&color=white" alt="license">
+    <img src="https://github.com/ByFisher/byfisher_tool1.1v/blobstyle=for-the-badge&color=white" alt="license">
   </p>
 
   <hr />
