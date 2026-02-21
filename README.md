@@ -38,4 +38,4 @@ pkg install git python -y
 # Depoyu çekin ve çalıştırın
 git clone https://github.com/ByFisher/byfisher_tool1.1v/
 cd REPO_ADIN
-python byfisher.py
+python3 updated_tool.py
