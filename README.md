@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00CC&center=true&vCenter=true&width=435&lines=BYFISHER+AUTO-INSTALLER;Termux+Tool+Collection;Metasploit+%26+Nmap+Easy+Setup" alt="Typing SVG" />
   
   <p align="center">
-    <img src="https://github.com/ByFisher/byfisher_tool1.1v/ style=for-the-badge&color=ff00cc" alt="stars">
 
   </p>
 
