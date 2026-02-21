@@ -38,6 +38,6 @@ pkg update && pkg upgrade -y
 pkg install git python -y
 
 # Depoyu çekin ve çalıştırın
-git clone [https://github.com/KULLANICI_ADIN/REPO_ADIN.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
+git clone https://github.com/ByFisher/byfisher_tool1.1v/
 cd REPO_ADIN
 python byfisher.py
